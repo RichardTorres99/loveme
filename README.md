@@ -1,19 +1,111 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Mensaje para ti</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-  <h1>Querida Viki &#10084;, </h1>`
-  <p>Hoy quiero dedicarte unas palabras especiales para recordarte cuánto significas para mí. Eres la luz que ilumina mis días y el motivo de mi sonrisa constante.</p>
-  <p>Tu amor y apoyo incondicional me inspiran a ser la mejor versión de mí mismo. Cada momento a tu lado es un regalo que atesoro profundamente. Tu alegría contagiosa y tu ternura me llenan de felicidad y paz.</p>
-  <p>Eres mi confidente, mi compañera de aventuras y mi refugio seguro. En tus brazos encuentro consuelo y en tu sonrisa encuentro la motivación para seguir adelante.</p>
-  <p>Agradezco por cada risa compartida, por cada gesto de cariño y por todo el amor que me regalas día a día. Eres mi amor verdadero y mi razón de ser.</p>
-  <p>Hoy quiero recordarte que siempre estaré aquí para ti, para apoyarte en cada paso que des y para celebrar tus logros. Eres una persona increíble y estoy agradecido por tenerte en mi vida.</p>
-  <p>Que este mensaje ilumine tu día y te recuerde cuánto te amo. Eres mi mayor bendición y siempre serás el latido de mi corazón.</p>
-  <p>Con todo mi amor,<br>
-  Tu amado amor. </p>
-  `
-  <img src="WhatsApp Image 2023-06-16 at 11.11.56 AM.jpeg" alt="Descripción de la imagen">
+    <table class="simple-table documents-table table table-striped table-hover align-middle margin-bottom-0" data-int="0">
+        <thead>
+            <tr>
+                <th>Proveedor</th>
+                <th>Software</th>
+                <th>Código del Software</th>
+                <th>Tipo de Documento</th>
+                <th class="text-left">Prefijo Asociado</th>
+                <th class="text-left">Fecha Asociación</th>
+                <th class="text-left">Fecha Expiración</th>
+                <th class="text-left"></th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr class="">
+                    <td class="largeText iffyTip"><a>DATAICO S.A.S</a></td>
+                    <td class="largeText iffyTip"><a>DATAICO</a></td>
+                    <td class="largeText iffyTip"><a>15f83ec4-20da-4f8b-9b81-33e3940aef8b</a></td>
+                    <td class="text-left smallText iffyTip"><a>01 - Factura Electronica</a></td>
+                    <td class="text-left smallText iffyTip"><a>FEV - 18764026191367 (2001 - 3000)</a></td>
+                    <td class="text-left smallText iffyTip"><a>04-03-2022</a></td>
+                    <td class="text-left">
+                        <a class="label label-table custom-label-danger add-tooltip" data-placement="top" data-original-title="Expirado">03-03-2023</a>
+                    </td>
+                    <td class="text-left">
+                        <button class="btn btn-xs">
+                            <i href="javascript:void(0)" class="text-left" data-pk="900740206" data-rk="FEV|01|18764026191367" onclick="removeRangeAssociationAlert(this)"> <i class="fa fa-times-circle add-tooltip" data-original-title="Eliminar asociación" style="color:#262944;"></i></i>
+                        </button>
+​
+                    </td>
+                </tr>
+                <tr class="">
+                    <td class="largeText iffyTip"><a>TERAPPS TECNOLOGIA INFORMATICA SAS</a></td>
+                    <td class="largeText iffyTip"><a>T-ONE ERP</a></td>
+                    <td class="largeText iffyTip"><a>535304af-ae49-4ae9-bb2f-26e56e4d48c1</a></td>
+                    <td class="text-left smallText iffyTip"><a>05 - Documento Soporte</a></td>
+                    <td class="text-left smallText iffyTip"><a>DOCS - 18764044235744 (36 - 100)</a></td>
+                    <td class="text-left smallText iffyTip"><a>15-06-2023</a></td>
+                    <td class="text-left">
+                        <a class="label label-table custom-label-success add-tooltip" data-placement="top" data-original-title="Expira en 169 días">10-02-2024</a>
+                    </td>
+                    <td class="text-left">
+                        <button class="btn btn-xs">
+                            <i href="javascript:void(0)" class="text-left" data-pk="900740206" data-rk="DOCS|05|18764044235744" onclick="removeRangeAssociationAlert(this)"> <i class="fa fa-times-circle add-tooltip" data-original-title="Eliminar asociación" style="color:#262944;"></i></i>
+                        </button>
+​
+                    </td>
+                </tr>
+                <tr class="">
+                    <td class="largeText iffyTip"><a>TERAPPS TECNOLOGIA INFORMATICA SAS</a></td>
+                    <td class="largeText iffyTip"><a>T-ONE ERP</a></td>
+                    <td class="largeText iffyTip"><a>535304af-ae49-4ae9-bb2f-26e56e4d48c1</a></td>
+                    <td class="text-left smallText iffyTip"><a>01 - Factura Electronica</a></td>
+                    <td class="text-left smallText iffyTip"><a>FEV - 18764045469032 (2960 - 3000)</a></td>
+                    <td class="text-left smallText iffyTip"><a>24-08-2023</a></td>
+                    <td class="text-left">
+                        <a class="label label-table custom-label-success add-tooltip" data-placement="top" data-original-title="Expira en 192 días">04-03-2024</a>
+                    </td>
+                    <td class="text-left">
+                        <button class="btn btn-xs">
+                            <i href="javascript:void(0)" class="text-left" data-pk="900740206" data-rk="FEV|01|18764045469032" onclick="removeRangeAssociationAlert(this)"> <i class="fa fa-times-circle add-tooltip" data-original-title="Eliminar asociación" style="color:#262944;"></i></i>
+                        </button>
+​
+                    </td>
+                </tr>
+                <tr class="">
+                    <td class="largeText iffyTip"><a>TERAPPS TECNOLOGIA INFORMATICA SAS</a></td>
+                    <td class="largeText iffyTip"><a>T-ONE ERP</a></td>
+                    <td class="largeText iffyTip"><a>535304af-ae49-4ae9-bb2f-26e56e4d48c1</a></td>
+                    <td class="text-left smallText iffyTip"><a>01 - Factura Electronica</a></td>
+                    <td class="text-left smallText iffyTip"><a>FEV - 18764045469182 (3001 - 10000)</a></td>
+                    <td class="text-left smallText iffyTip"><a>24-08-2023</a></td>
+                    <td class="text-left">
+                        <a class="label label-table custom-label-success add-tooltip" data-placement="top" data-original-title="Expira en 192 días">04-03-2024</a>
+                    </td>
+                    <td class="text-left">
+                        <button class="btn btn-xs">
+                            <i href="javascript:void(0)" class="text-left" data-pk="900740206" data-rk="FEV|01|18764045469182" onclick="removeRangeAssociationAlert(this)"> <i class="fa fa-times-circle add-tooltip" data-original-title="Eliminar asociación" style="color:#262944;"></i></i>
+                        </button>
+​
+                    </td>
+                </tr>
+                <tr class="">
+                    <td class="largeText iffyTip"><a>DATAICO S.A.S</a></td>
+                    <td class="largeText iffyTip"><a>DATAICO</a></td>
+                    <td class="largeText iffyTip"><a>15f83ec4-20da-4f8b-9b81-33e3940aef8b</a></td>
+                    <td class="text-left smallText iffyTip"><a>01 - Factura Electronica</a></td>
+                    <td class="text-left smallText iffyTip"><a>FEV - 18764005333279 (1101 - 2000)</a></td>
+                    <td class="text-left smallText iffyTip"><a>24-10-2020</a></td>
+                    <td class="text-left">
+                        <a class="label label-table custom-label-danger add-tooltip" data-placement="top" data-original-title="Expirado">06-10-2021</a>
+                    </td>
+                    <td class="text-left">
+                        <button class="btn btn-xs">
+                            <i href="javascript:void(0)" class="text-left" data-pk="900740206" data-rk="FEV|01|18764005333279" onclick="removeRangeAssociationAlert(this)"> <i class="fa fa-times-circle add-tooltip" data-original-title="Eliminar asociación" style="color:#262944;"></i></i>
+                        </button>
+​
+                    </td>
+                </tr>
+        </tbody>
+    </table>
 </body>
 </html>
